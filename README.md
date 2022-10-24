@@ -29,3 +29,7 @@ N/A
 * [Deep Learning and Neural Networks using Python - Keras: The Complete Beginners Guide [Video]]( https://www.packtpub.com/application-development/deep-learning-and-neural-networks-using-python-keras-complete-beginners-guid)
 
 * [Java SE New Features: Covers Versions 9, 10, 11, and 12 [Video]]( https://www.packtpub.com/application-development/java-se-new-features-covers-versions-9-10-11-and-12-video)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781787288669">https://packt.link/free-ebook/9781787288669 </a> </p>
